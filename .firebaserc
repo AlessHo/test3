@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "myapp2-7f84d": {
+      "hosting": {
+        "material-dashboard-angular": [
+          "myapp2-7f84d"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "myapp2-7f84d"
+  }
+}
